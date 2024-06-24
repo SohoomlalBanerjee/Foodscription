@@ -3,7 +3,7 @@ import doctor from '../assets/Doctor.jpg';
 
 export default function Upper_part() {
     return (
-        <div className="bg-white text-slate-700 p-5 mx-10">
+        <div className="bg-white text-slate-700 mx-10">
             <div className="container mx-auto flex justify-between items-center m-5 mb-1 p-5">
                 <div className="flex items-center">
                     <img src={doctor} alt="Doctor" className="h-20 w-20 rounded-full mx-5 ml-14" />
